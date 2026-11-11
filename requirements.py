@@ -1,0 +1,12 @@
+anyio==4.12.1
+certifi==2026.2.25
+colored==2.3.2
+docopt==0.6.2
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.11
+num2words==0.5.14
+python-dotenv==1.2.4
+python-telegram-bot==22.6
+typing_extensions==4.15.0
